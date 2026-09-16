@@ -125,7 +125,7 @@
 function App() {
   return (
     <div>
-      <h6>first cicd setup project done successfully with one branch</h6>
+      <h6>first cicd setup project done successfully with one branch with name develop 1</h6>
     </div>
   );
 }
