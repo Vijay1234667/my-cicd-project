@@ -125,7 +125,7 @@
 function App() {
   return (
     <div>
-      <h6>first cicd setup project done successfully</h6>
+      <h6>madhup</h6>
     </div>
   );
 }
